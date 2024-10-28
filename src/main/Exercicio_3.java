@@ -31,5 +31,4 @@ public class Exercicio_3 {
 		resultado = String.format("%.2f",salarioLiquido).replace(",", ".");
 		System.out.print("O Salário Liquido é: " + resultado);
 	}
-	
 }
