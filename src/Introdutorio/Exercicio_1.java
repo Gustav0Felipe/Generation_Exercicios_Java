@@ -1,11 +1,11 @@
-package main;
+package Introdutorio;
 
 import java.util.Scanner;
 
 public class Exercicio_1 {
 
 	public static void main (String [] args) {
-		
+	
 		//Exemplo dado no Exercicio.
 		float salario = 1000;
 		float abono = 100;
