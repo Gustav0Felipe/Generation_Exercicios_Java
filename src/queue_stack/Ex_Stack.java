@@ -11,7 +11,7 @@ public class Ex_Stack {
 		
 		boolean exit = false;
 		System.out.println("*".repeat(50) + "\n"
-				+("1 - Adicionar Livro na Pilha\n"
+				+("1 - Adicionar Livro na Pilha\n"                                                    
 				+ "2 - Listar todos os Livros\n"
 				+ "3 - Retirar Livro da Pilha \n"
 				+ "0 - Sair \n").indent(9)
